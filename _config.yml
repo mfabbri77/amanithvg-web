@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Cross platform OpenVG library.
+description: Native cross-platform OpenVG library.
 author:
   name: Michele Fabbri
   email: mfabbri@mazatech.com
